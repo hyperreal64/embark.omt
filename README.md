@@ -1,6 +1,6 @@
 # Embark for Oh My Tmux
 
-![embark-omt-demo.png]
+![embark-omt](/embark-omt-demo.png)
 
 ## How to use
 
